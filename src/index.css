@@ -14,6 +14,10 @@ body {
   align-items: center;
 }
 
+.title {
+  text-align: center;
+  font-size: 40px;
+}
 .screen {
   height: 4rem;
   margin-bottom: 4rem;
@@ -56,5 +60,6 @@ font-size: 1.5rem;
   grid-column: 3/5;
 }
 .opt{
-background: #f79505 ;
+background: #fe7f2d ;
+color: #ffff;
 }
